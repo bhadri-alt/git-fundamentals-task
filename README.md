@@ -10,7 +10,7 @@ This repository was created as part of the Git Fundamentals learning program. Th
 
 
 
-\---
+
 
 
 
@@ -30,7 +30,7 @@ This repository was created as part of the Git Fundamentals learning program. Th
 
 
 
-\---
+
 
 
 
@@ -49,7 +49,7 @@ Before starting this task, the following were installed and configured:
 
 
 
-\---
+
 
 
 
@@ -141,7 +141,7 @@ Tracking Modifications
 
 
 
-\---
+
 
 
 
@@ -275,7 +275,7 @@ git reset --soft HEAD\~1
 
 
 
-\---
+
 
 
 
@@ -295,7 +295,7 @@ Understanding branching and merging concepts.
 
 
 
-\---
+
 
 ## Learning Outcomes/
 
@@ -321,7 +321,7 @@ Use Git confidently for project version control.
 
 
 
-\---
+
 
 
 
@@ -333,7 +333,7 @@ This task provided practical experience with Git and GitHub. The knowledge gaine
 
 
 
-\---
+
 
 
 
